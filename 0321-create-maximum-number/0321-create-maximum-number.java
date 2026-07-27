@@ -13,39 +13,26 @@ class Solution {
        }
        return ans; 
     }
-    private int[]maxSubsequence(int[] nums, int k){
-        int ans[]=new int[k];
-        
-        Stack<Integer>s1=new Stack<>();
-        
-        
-        int remove1=nums.length-k;
-        for(int num:nums){
-            while(!s1.isEmpty()&& s1.peek()<num && remove1>0){
-               s1.pop();
-               remove1--;
+    private int[] maxSubsequence(int[] nums, int k) {
+
+        int drop = nums.length - k;
+        int[] stack = new int[nums.length];
+        int top = 0;
+
+        for (int num : nums) {
+
+            while (top > 0 && drop > 0 && stack[top - 1] < num) {
+                top--;
+                drop--;
             }
-            if(s1.size()<k){
-                s1.push(num);
-            }
-            else{
-                remove1--;
-            }
-          
-            
+
+            stack[top++] = num;
         }
-        while(s1.size()>k){
-            s1.pop();
-        }
-          int idx=k-1;
-        while(!s1.isEmpty()){
-          
-            ans[idx]=s1.pop();
-            idx--;
-        }
-        return ans;
-         
+
+        return Arrays.copyOf(stack, k);
     }
+         
+    
     private int[]merge(int[]a,int[]b){
         int ans[]=new int[a.length+b.length];
         int i=0;
