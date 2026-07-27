@@ -25,7 +25,13 @@ class Solution {
                s1.pop();
                remove1--;
             }
-            s1.push(num);
+            if(s1.size()<k){
+                s1.push(num);
+            }
+            else{
+                remove1--;
+            }
+          
             
         }
         while(s1.size()>k){
