@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akash7890-bit/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0321-create-maximum-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0321-create-maximum-number) |
 ## Two Pointers
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akash7890-bit/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akash7890-bit/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
