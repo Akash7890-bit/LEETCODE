@@ -5,12 +5,12 @@ class Solution {
          BT(resultList,temp,nums,0);
          return resultList;
     }
-    private void BT( List<List<Integer>>result,List<Integer>temp,int[]nums,int start){
-        result.add(new ArrayList<>(temp));
+    private void BT( List<List<Integer>>resultList,List<Integer>temp,int[]nums,int start){
+        resultList.add(new ArrayList<>(temp));
 
         for(int i=start;i<nums.length;i++){
             temp.add(nums[i]);
-            BT(result,temp,nums,i+1);
+            BT(resultList,temp,nums,i+1);
             temp.remove(temp.size()-1);
         }
         
