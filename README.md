@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash7890-bit/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0078-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Akash7890-bit/LEETCODE/tree/master/0198-house-robber) |
 | [0321-create-maximum-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0321-create-maximum-number) |
 ## Two Pointers
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Akash7890-bit/LEETCODE/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
