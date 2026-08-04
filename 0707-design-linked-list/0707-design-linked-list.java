@@ -73,9 +73,7 @@ class MyLinkedList {
         count++;
 
         }
-        if(curr==null){
-            return;
-        }
+       
         temp.next=curr.next;
         curr.next=temp;
         
