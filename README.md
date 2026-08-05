@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0321-create-maximum-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0321-create-maximum-number) |
 ## Greedy
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0707-design-linked-list) |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0707-design-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
