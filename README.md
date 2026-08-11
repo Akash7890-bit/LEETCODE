@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0321-create-maximum-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0321-create-maximum-number) |
 ## Greedy
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash7890-bit/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0148-sort-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0328-odd-even-linked-list) |
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
