@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash7890-bit/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Akash7890-bit/LEETCODE/tree/master/0198-house-robber) |
 | [0321-create-maximum-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0494-target-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0494-target-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash7890-bit/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
 ## Combinatorics
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -115,8 +118,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0148-sort-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
