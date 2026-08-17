@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0321-create-maximum-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0445-add-two-numbers-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0494-target-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Akash7890-bit/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0321-create-maximum-number) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0707-design-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
