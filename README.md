@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Akash7890-bit/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0206-reverse-linked-list) |
@@ -123,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0707-design-linked-list) |
 ## Hash Table
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Akash7890-bit/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
