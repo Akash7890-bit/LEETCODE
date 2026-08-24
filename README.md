@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0707-design-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0707-design-linked-list) |
 ## Hash Table
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0460-lfu-cache) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -179,4 +182,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
