@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Akash7890-bit/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Akash7890-bit/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Akash7890-bit/LEETCODE/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -191,11 +192,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Akash7890-bit/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
@@ -205,6 +208,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Akash7890-bit/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
