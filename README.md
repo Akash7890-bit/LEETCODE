@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
@@ -192,12 +193,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Akash7890-bit/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Akash7890-bit/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
