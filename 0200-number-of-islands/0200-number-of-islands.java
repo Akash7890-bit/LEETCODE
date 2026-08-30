@@ -16,7 +16,7 @@ class Solution {
 
     }
     void dfs(int i,int j,int m,int n,boolean vis[][],char grid[][]){
-        if(i<0 || j<0 || i>=m ||j>=n|| vis[i][j]==true || grid[i][j]!='1'){
+        if(i<0 || j<0 || i>=m ||j>=n|| vis[i][j]==true || grid[i][j]=='0'){
             return;
         }
         vis[i][j]=true;
