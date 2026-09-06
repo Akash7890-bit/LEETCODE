@@ -23,7 +23,7 @@ class Solution {
        return root;
     }
     TreeNode insert(TreeNode node,int val){
-         if(node==null){
+        if(node==null){
             return new TreeNode(val);
         }
         if(val<node.val){
