@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash7890-bit/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0078-subsets) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Akash7890-bit/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Akash7890-bit/LEETCODE/tree/master/0200-number-of-islands) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash7890-bit/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Akash7890-bit/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Akash7890-bit/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Akash7890-bit/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akash7890-bit/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
