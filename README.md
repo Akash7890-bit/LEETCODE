@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Akash7890-bit/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akash7890-bit/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Akash7890-bit/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -412,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Akash7890-bit/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Akash7890-bit/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
