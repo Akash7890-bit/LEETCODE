@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0078-subsets) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akash7890-bit/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/Akash7890-bit/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Akash7890-bit/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Akash7890-bit/LEETCODE/tree/master/0198-house-robber) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akash7890-bit/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Akash7890-bit/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Akash7890-bit/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0146-lru-cache) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Akash7890-bit/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Akash7890-bit/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Akash7890-bit/LEETCODE/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Akash7890-bit/LEETCODE/tree/master/0785-is-graph-bipartite) |
