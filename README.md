@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Akash7890-bit/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Akash7890-bit/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Akash7890-bit/LEETCODE/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Akash7890-bit/LEETCODE/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akash7890-bit/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Akash7890-bit/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Akash7890-bit/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Akash7890-bit/LEETCODE/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Akash7890-bit/LEETCODE/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Akash7890-bit/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Akash7890-bit/LEETCODE/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/Akash7890-bit/LEETCODE/tree/master/0617-merge-two-binary-trees) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Akash7890-bit/LEETCODE/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Akash7890-bit/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Akash7890-bit/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Akash7890-bit/LEETCODE/tree/master/0841-keys-and-rooms) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Akash7890-bit/LEETCODE/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/Akash7890-bit/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Lifting
 |  |
@@ -443,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Akash7890-bit/LEETCODE/tree/master/0127-word-ladder) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Akash7890-bit/LEETCODE/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
