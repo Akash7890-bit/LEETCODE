@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Akash7890-bit/LEETCODE/tree/master/0127-word-ladder) |
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akash7890-bit/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash7890-bit/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akash7890-bit/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akash7890-bit/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akash7890-bit/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akash7890-bit/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -391,11 +394,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Akash7890-bit/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Akash7890-bit/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [1192-critical-connections-in-a-network](https://github.com/Akash7890-bit/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akash7890-bit/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Akash7890-bit/LEETCODE/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/Akash7890-bit/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akash7890-bit/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -455,4 +460,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Akash7890-bit/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akash7890-bit/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
