@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Akash7890-bit/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Akash7890-bit/LEETCODE/tree/master/0542-01-matrix) |
+| [0622-design-circular-queue](https://github.com/Akash7890-bit/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0733-flood-fill](https://github.com/Akash7890-bit/LEETCODE/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Akash7890-bit/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0909-snakes-and-ladders](https://github.com/Akash7890-bit/LEETCODE/tree/master/0909-snakes-and-ladders) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/Akash7890-bit/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0707-design-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Akash7890-bit/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0460-lfu-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/Akash7890-bit/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0707-design-linked-list) |
 ## Hash Table
 |  |
@@ -510,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Akash7890-bit/LEETCODE/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
