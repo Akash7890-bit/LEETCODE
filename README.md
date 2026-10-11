@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akash7890-bit/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
+| [1672-richest-customer-wealth](https://github.com/Akash7890-bit/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akash7890-bit/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Two Pointers
 |  |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Akash7890-bit/LEETCODE/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Akash7890-bit/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akash7890-bit/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Akash7890-bit/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Graph Theory
 |  |
 | ------- |
