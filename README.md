@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Akash7890-bit/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1672-richest-customer-wealth](https://github.com/Akash7890-bit/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akash7890-bit/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akash7890-bit/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akash7890-bit/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akash7890-bit/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akash7890-bit/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -533,4 +535,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/Akash7890-bit/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Akash7890-bit/LEETCODE/tree/master/0641-design-circular-deque) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akash7890-bit/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akash7890-bit/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
