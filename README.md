@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Akash7890-bit/LEETCODE/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Akash7890-bit/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0909-snakes-and-ladders](https://github.com/Akash7890-bit/LEETCODE/tree/master/0909-snakes-and-ladders) |
+| [0924-minimize-malware-spread](https://github.com/Akash7890-bit/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/Akash7890-bit/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akash7890-bit/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0460-lfu-cache) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0924-minimize-malware-spread](https://github.com/Akash7890-bit/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akash7890-bit/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akash7890-bit/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Akash7890-bit/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Akash7890-bit/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0924-minimize-malware-spread](https://github.com/Akash7890-bit/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akash7890-bit/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0968-binary-tree-cameras](https://github.com/Akash7890-bit/LEETCODE/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Akash7890-bit/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/Akash7890-bit/LEETCODE/tree/master/0909-snakes-and-ladders) |
+| [0924-minimize-malware-spread](https://github.com/Akash7890-bit/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Akash7890-bit/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akash7890-bit/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Akash7890-bit/LEETCODE/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Akash7890-bit/LEETCODE/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Akash7890-bit/LEETCODE/tree/master/0785-is-graph-bipartite) |
+| [0924-minimize-malware-spread](https://github.com/Akash7890-bit/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akash7890-bit/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akash7890-bit/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akash7890-bit/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
@@ -436,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Akash7890-bit/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Akash7890-bit/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Akash7890-bit/LEETCODE/tree/master/0841-keys-and-rooms) |
+| [0924-minimize-malware-spread](https://github.com/Akash7890-bit/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akash7890-bit/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Akash7890-bit/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akash7890-bit/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
