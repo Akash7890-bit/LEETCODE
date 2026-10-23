@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akash7890-bit/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/Akash7890-bit/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Akash7890-bit/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akash7890-bit/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akash7890-bit/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash7890-bit/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Akash7890-bit/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/Akash7890-bit/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/Akash7890-bit/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akash7890-bit/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/Akash7890-bit/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akash7890-bit/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1192-critical-connections-in-a-network](https://github.com/Akash7890-bit/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akash7890-bit/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/Akash7890-bit/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Tree
 |  |
 | ------- |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akash7890-bit/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akash7890-bit/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akash7890-bit/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/Akash7890-bit/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akash7890-bit/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akash7890-bit/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akash7890-bit/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/Akash7890-bit/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -428,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Akash7890-bit/LEETCODE/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Akash7890-bit/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akash7890-bit/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Akash7890-bit/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Akash7890-bit/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Graph Theory
 |  |
@@ -569,4 +576,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Akash7890-bit/LEETCODE/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Akash7890-bit/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
