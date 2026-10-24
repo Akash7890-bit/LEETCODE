@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Akash7890-bit/LEETCODE/tree/master/0641-design-circular-deque) |
 | [0733-flood-fill](https://github.com/Akash7890-bit/LEETCODE/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Akash7890-bit/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/Akash7890-bit/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0909-snakes-and-ladders](https://github.com/Akash7890-bit/LEETCODE/tree/master/0909-snakes-and-ladders) |
 | [0924-minimize-malware-spread](https://github.com/Akash7890-bit/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/Akash7890-bit/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash7890-bit/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Akash7890-bit/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0778-swim-in-rising-water](https://github.com/Akash7890-bit/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Akash7890-bit/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/Akash7890-bit/LEETCODE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Akash7890-bit/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akash7890-bit/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Akash7890-bit/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Akash7890-bit/LEETCODE/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Akash7890-bit/LEETCODE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Akash7890-bit/LEETCODE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Akash7890-bit/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Akash7890-bit/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akash7890-bit/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Akash7890-bit/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Akash7890-bit/LEETCODE/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Akash7890-bit/LEETCODE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Akash7890-bit/LEETCODE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Akash7890-bit/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Akash7890-bit/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akash7890-bit/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Akash7890-bit/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
@@ -419,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Akash7890-bit/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Akash7890-bit/LEETCODE/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Akash7890-bit/LEETCODE/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/Akash7890-bit/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Akash7890-bit/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0924-minimize-malware-spread](https://github.com/Akash7890-bit/LEETCODE/tree/master/0924-minimize-malware-spread) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akash7890-bit/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -433,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Akash7890-bit/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Akash7890-bit/LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Akash7890-bit/LEETCODE/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Akash7890-bit/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0909-snakes-and-ladders](https://github.com/Akash7890-bit/LEETCODE/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Akash7890-bit/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akash7890-bit/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -578,5 +585,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Akash7890-bit/LEETCODE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Akash7890-bit/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Akash7890-bit/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Akash7890-bit/LEETCODE/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
