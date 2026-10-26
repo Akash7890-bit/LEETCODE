@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akash7890-bit/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash7890-bit/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash7890-bit/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
 | ------- |
