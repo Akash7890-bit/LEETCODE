@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Akash7890-bit/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Akash7890-bit/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akash7890-bit/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akash7890-bit/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Akash7890-bit/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
