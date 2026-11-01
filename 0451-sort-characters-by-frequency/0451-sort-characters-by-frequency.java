@@ -1,31 +1,32 @@
+class pair{
+    char word;
+    int freq;
+    pair(char word,int freq){
+        this.word=word;
+        this.freq=freq;
+    }
+}
 class Solution {
     public String frequencySort(String s) {
        HashMap<Character,Integer>fMap=new HashMap<>();
        for(char c:s.toCharArray()){
             fMap.put(c,fMap.getOrDefault(c,0)+1);
        }
-       int size=s.length();
-        ArrayList<Character>freq[]=new ArrayList[size+1];
+       PriorityQueue<pair>qu=new PriorityQueue<>((a,b)->b.freq-a.freq);
        for(char key:fMap.keySet()){
-            int f=fMap.get(key);
-            if(freq[f]==null){
-                freq[f]=new ArrayList<>();
-            }
-            freq[f].add(key);
+        qu.offer(new pair(key,fMap.get(key)));
        }
-        StringBuilder sb=new StringBuilder();
        
-       for(int i=freq.length-1;i>=0;i--){
-        if(freq[i]!=null){
-           for(int j=0;j<freq[i].size();j++){
-            char ch=freq[i].get(j);
-            for(int k=0;k<i;k++){
-                sb.append(ch);
-            }
-           }
+    StringBuilder sb=new StringBuilder();
+       while(!qu.isEmpty()){
+        char curr=qu.poll().word;
+        for(int i=0;i<fMap.get(curr);i++){
+            sb.append(curr);
         }
        }
        return sb.toString();
+       
+       
            
        
            
