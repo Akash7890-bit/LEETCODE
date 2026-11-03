@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0321-create-maximum-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Akash7890-bit/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Akash7890-bit/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Akash7890-bit/LEETCODE/tree/master/0542-01-matrix) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Akash7890-bit/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Akash7890-bit/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Akash7890-bit/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akash7890-bit/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
