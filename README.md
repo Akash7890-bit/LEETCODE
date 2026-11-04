@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Akash7890-bit/LEETCODE/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/Akash7890-bit/LEETCODE/tree/master/0622-design-circular-queue) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0641-design-circular-deque](https://github.com/Akash7890-bit/LEETCODE/tree/master/0641-design-circular-deque) |
 | [0692-top-k-frequent-words](https://github.com/Akash7890-bit/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/Akash7890-bit/LEETCODE/tree/master/0733-flood-fill) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0321-create-maximum-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0460-lfu-cache) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Akash7890-bit/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0924-minimize-malware-spread](https://github.com/Akash7890-bit/LEETCODE/tree/master/0924-minimize-malware-spread) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Akash7890-bit/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Akash7890-bit/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Akash7890-bit/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akash7890-bit/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Akash7890-bit/LEETCODE/tree/master/0743-network-delay-time) |
@@ -665,4 +670,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
