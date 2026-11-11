@@ -7,7 +7,10 @@ class Solution {
     }
     void getPerms(int[] nums,int idx,List<List<Integer>>ans){
         if(idx==nums.length){
-            List<Integer>temp=Arrays.stream(nums).boxed().collect(Collectors.toList());
+            List<Integer>temp=new ArrayList<>();
+            for(int i:nums){
+                temp.add(i);
+            }
             ans.add(temp);
         }
         for(int i=idx;i<nums.length;i++){
