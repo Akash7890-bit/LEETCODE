@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Akash7890-bit/LEETCODE/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Akash7890-bit/LEETCODE/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Akash7890-bit/LEETCODE/tree/master/0412-fizz-buzz) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Akash7890-bit/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Akash7890-bit/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akash7890-bit/LEETCODE/tree/master/0046-permutations) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
