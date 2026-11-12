@@ -2,6 +2,7 @@ class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>>ans=new ArrayList<>();
         HashSet<List<Integer>>vis=new HashSet<>();
+        Arrays.sort(nums);
         getPerms(nums,ans,0,vis);
         return ans;
 
@@ -18,6 +19,9 @@ class Solution {
             }
         }
         for(int i=idx;i<nums.length;i++){
+            if(i>idx && nums[i]==nums[i-1]){
+                continue;
+            }
             swap(i,idx,nums);
             getPerms(nums,ans,idx+1,vis);
             swap(i,idx,nums);
