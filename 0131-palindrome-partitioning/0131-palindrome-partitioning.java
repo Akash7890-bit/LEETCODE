@@ -18,10 +18,8 @@ class Solution {
     }
     private void gap(String s,List<String>temp,List<List<String>>ans,int idx){
         if(idx==s.length()){
-            List<String>res=new ArrayList<>();
-            for(String i:temp){
-                res.add(i);
-            }
+            List<String>res=new ArrayList<>(temp);
+           
             ans.add(res);
             return;
         }
