@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Akash7890-bit/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Akash7890-bit/LEETCODE/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0321-create-maximum-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Akash7890-bit/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Akash7890-bit/LEETCODE/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akash7890-bit/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Akash7890-bit/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akash7890-bit/LEETCODE/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Akash7890-bit/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Akash7890-bit/LEETCODE/tree/master/0692-top-k-frequent-words) |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akash7890-bit/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0229-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
