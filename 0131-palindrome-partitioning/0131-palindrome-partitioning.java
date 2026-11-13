@@ -2,7 +2,7 @@ class Solution {
     public List<List<String>> partition(String s) {
         List<List<String>>ans=new ArrayList<>();
         List<String>temp=new ArrayList<>();
-        gap(s,temp,ans);
+        gap(s,temp,ans,0);
         return ans;
 
     }
@@ -12,8 +12,8 @@ class Solution {
         
         return s.equals(s2);
     }
-    private void gap(String s,List<String>temp,List<List<String>>ans){
-        if(s.length()==0){
+    private void gap(String s,List<String>temp,List<List<String>>ans,int idx){
+        if(idx==s.length()){
             List<String>res=new ArrayList<>();
             for(String i:temp){
                 res.add(i);
@@ -21,11 +21,11 @@ class Solution {
             ans.add(res);
             return;
         }
-        for(int i=0;i<s.length();i++){
-            String part=s.substring(0,i+1);
+        for(int i=idx;i<s.length();i++){
+            String part=s.substring(idx,i+1);
             if(isPal(part)){
                 temp.add(part);
-                gap(s.substring(i+1),temp,ans);
+                gap(s,temp,ans,i+1);
                 temp.remove(temp.size()-1);
             }
         }
