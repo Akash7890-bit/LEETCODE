@@ -6,11 +6,15 @@ class Solution {
         return ans;
 
     }
-    private boolean isPal(String s){
-        StringBuilder sb=new StringBuilder(s);
-        String s2=sb.reverse().toString();
-        
-        return s.equals(s2);
+     private boolean isPal(String s, int left, int right) {
+        while (left < right) {
+            if (s.charAt(left) != s.charAt(right)) {
+                return false;
+            }
+            left++;
+            right--;
+        }
+        return true;
     }
     private void gap(String s,List<String>temp,List<List<String>>ans,int idx){
         if(idx==s.length()){
@@ -22,9 +26,9 @@ class Solution {
             return;
         }
         for(int i=idx;i<s.length();i++){
-            String part=s.substring(idx,i+1);
-            if(isPal(part)){
-                temp.add(part);
+           
+            if(isPal(s,idx,i)){
+                temp.add(s.substring(idx,i+1));
                 gap(s,temp,ans,i+1);
                 temp.remove(temp.size()-1);
             }
