@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Akash7890-bit/LEETCODE/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/Akash7890-bit/LEETCODE/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Akash7890-bit/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Akash7890-bit/LEETCODE/tree/master/0242-valid-anagram) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akash7890-bit/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Akash7890-bit/LEETCODE/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Akash7890-bit/LEETCODE/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Akash7890-bit/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/Akash7890-bit/LEETCODE/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Akash7890-bit/LEETCODE/tree/master/0412-fizz-buzz) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akash7890-bit/LEETCODE/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0136-single-number) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akash7890-bit/LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Akash7890-bit/LEETCODE/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash7890-bit/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Bidirectional Search
