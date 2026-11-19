@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Akash7890-bit/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akash7890-bit/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akash7890-bit/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akash7890-bit/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3665-twisted-mirror-path-count](https://github.com/Akash7890-bit/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0321-create-maximum-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Akash7890-bit/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Merge Sort
 |  |
 | ------- |
