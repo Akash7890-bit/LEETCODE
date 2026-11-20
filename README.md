@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akash7890-bit/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Akash7890-bit/LEETCODE/tree/master/0093-restore-ip-addresses) |
@@ -723,4 +724,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akash7890-bit/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
