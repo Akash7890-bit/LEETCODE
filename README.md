@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Akash7890-bit/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0909-snakes-and-ladders](https://github.com/Akash7890-bit/LEETCODE/tree/master/0909-snakes-and-ladders) |
 | [0924-minimize-malware-spread](https://github.com/Akash7890-bit/LEETCODE/tree/master/0924-minimize-malware-spread) |
+| [0977-squares-of-a-sorted-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Akash7890-bit/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Akash7890-bit/LEETCODE/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akash7890-bit/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Akash7890-bit/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0321-create-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Akash7890-bit/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Akash7890-bit/LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0977-squares-of-a-sorted-array](https://github.com/Akash7890-bit/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash7890-bit/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Akash7890-bit/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
