@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akash7890-bit/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akash7890-bit/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Akash7890-bit/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash7890-bit/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
