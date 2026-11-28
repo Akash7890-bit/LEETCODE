@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash7890-bit/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0641-design-circular-deque](https://github.com/Akash7890-bit/LEETCODE/tree/master/0641-design-circular-deque) |
 | [0692-top-k-frequent-words](https://github.com/Akash7890-bit/LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/Akash7890-bit/LEETCODE/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Akash7890-bit/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Akash7890-bit/LEETCODE/tree/master/0778-swim-in-rising-water) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Akash7890-bit/LEETCODE/tree/master/0542-01-matrix) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/Akash7890-bit/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akash7890-bit/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0968-binary-tree-cameras](https://github.com/Akash7890-bit/LEETCODE/tree/master/0968-binary-tree-cameras) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akash7890-bit/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Akash7890-bit/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Akash7890-bit/LEETCODE/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/Akash7890-bit/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Akash7890-bit/LEETCODE/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Akash7890-bit/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Akash7890-bit/LEETCODE/tree/master/0342-power-of-four) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -745,4 +750,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Akash7890-bit/LEETCODE/tree/master/0052-n-queens-ii) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash7890-bit/LEETCODE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
